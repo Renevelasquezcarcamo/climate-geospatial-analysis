@@ -1,4 +1,4 @@
-# climate Geospatial Analysis
+# Climate Geospatial Analysis
 
 This code is written in Python and is used to work with a type of data called netCDF, which is a way of storing scientific data.
 
